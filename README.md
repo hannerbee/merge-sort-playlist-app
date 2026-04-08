@@ -78,7 +78,7 @@ Merge Sort is well suited for this problem because it efficiently handles lists 
 
 ## Hugging Face Link
 
-(Add your Hugging Face Space link here after deployment)
+https://huggingface.co/spaces/hannerbe/merge-sort-playlist
 
 ---
 
