@@ -8,6 +8,16 @@
 ![Error Handling](screenshots/error_emptyfield.png)
 
 ---
+## Chosen Problem
+This project adapts the Playlist Vibe Builder problem by allowing the user to sort a playlist of songs by genre or duration.
+
+## Chosen Algorithm
+This project uses Merge Sort because it efficiently sorts lists while clearly showing the divide-and-conquer process through splitting and merging steps.
+
+## Testing
+The app was tested with both valid and invalid inputs. Valid tests included sorting playlists by genre and by duration. Edge cases included empty input, missing fields, incorrect number of values, and non-numeric duration values. In each case, the app either returned the correct sorted result or displayed an appropriate error message.
+
+---
 
 ## Problem Breakdown & Computational Thinking
 
@@ -54,6 +64,7 @@
 ### Flowchart
 
 ![Flowchart](screenshots/flowchart.png)
+
 ---
 
 ## Why Merge Sort Fits
@@ -84,7 +95,7 @@ https://huggingface.co/spaces/hannerbe/merge-sort-playlist
 
 ## Author & AI Acknowledgment
 
-Author: Hannah
+Author: Hannah Robinson
 
 AI Acknowledgment:
-AI was used to assist with understanding concepts such as Merge Sort, debugging code errors, and improving code structure. All final implementation decisions, testing, and modifications were completed by the author.
+AI was used to assist with understanding concepts such as Merge Sort, debugging code errors, and improving code structure. All final implementation decisions, testing, and modifications were completed by the author. AI was also used to clarify how to use terminal, what commands to enter and use of hugging tree.
